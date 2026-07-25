@@ -22,6 +22,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 58 | Length of Last Word | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/58_Length_of_Last_Word.py) | [LeetCode](https://leetcode.com/problems/length-of-last-word/) |
 | 67 | Add Binary | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/67_Add_Binary.py) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 | 75 | Sort Colors | 🟡 Medium | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/75_sort_colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/121_Best_Time_to_Buy_and_Sell_Stock.java) | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 125 | Valid Palindrome | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/125_Valid_Palindrome.py) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 | 136 | Single Number | 🟢 Easy | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/136_Single_Number.java) | [LeetCode](https://leetcode.com/problems/single-number/) |
 | 151 | Reverse Words in a String | 🟡 Medium | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Reverse_Words_in_a_String.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
