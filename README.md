@@ -26,6 +26,7 @@ This repository helps me track my progress and serves as a reference for the pro
 | 125 | Valid Palindrome | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/125_Valid_Palindrome.py) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 | 136 | Single Number | 🟢 Easy | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/136_Single_Number.java) | [LeetCode](https://leetcode.com/problems/single-number/) |
 | 151 | Reverse Words in a String | 🟡 Medium | ☕ Java | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/Reverse_Words_in_a_String.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 268 | Missing Number | 🟢 Easy | ☕ Java | [View Solution](https://github.com/Tushars-13/Leetcode-Solutions/blob/main/268_Missing_Number.java) | [LeetCode](https://leetcode.com/problems/missing-number/) |
 | 344 | Reverse String | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/344_Reverse_String.py) | [LeetCode](https://leetcode.com/problems/reverse-string/) |
 | 345 | Reverse Vowels of a String | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/345_Reverse_Vowels_of_a_String.py) | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 392 | Is Subsequence | 🟢 Easy | 🐍 Python | [View Solution](https://github.com/Tushars-13/DSA-Solutions/blob/main/392_Is_Subsequence.py) | [LeetCode](https://leetcode.com/problems/is-subsequence/) |
