@@ -8,8 +8,8 @@ This repository helps me track my progress and serves as a reference for the pro
 
 ## 📈 Progress
 
-- ✅ Total Problems Solved: **29**
-- 🟠 LeetCode: **24**
+- ✅ Total Problems Solved: **30**
+- 🟠 LeetCode: **25**
 - 🟢 GeeksforGeeks: **5**
 
 ## 📘 LeetCode Solutions
